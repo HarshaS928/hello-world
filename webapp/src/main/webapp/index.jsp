@@ -4,7 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
+<<<<<<< HEAD
     <label for="Name"><b>Enter Name</b></label>
+=======
+    <label for="Name"><b>Enter Name !!</b></label>
+>>>>>>> refs/remotes/origin/master
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
